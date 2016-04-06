@@ -1,0 +1,1544 @@
+{
+    "bars": [
+
+        {
+            "id": 1,
+            "name": "B.D. Riley's",
+            "description": "Irish & local craft-brewed beers alongside an upscale pub menu, with traditional Irish decor.",
+            "address": "204 E 6th Street",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-494-1335",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "4:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "4:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://bdrileys.com/menu/",
+            "teams": [
+
+                {
+                    "name": "Houston Texans",
+                    "schedule": []
+                },
+                {
+                    "name": "New England Patriots",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bar 96",
+            "description": "Casual sports-friendly bar in a former bungalow with a wraparound porch, board games & a food truck.",
+            "address": "96 Rainey St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-433-6604",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/bar-96-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": "Baltimore Ravens",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Big Daddy's Burger Bar",
+            "description": "A jumbo menu of elaborate burgers in a sports bar with many satellite TV options, plus a kids' menu.",
+            "address": "9070 Research Blvd #101",
+            "zipcode": 78758,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-614-0252",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://bigdaddysaustin.com/menu/",
+            "teams": [
+
+                {
+                    "name": "Oakland Raiders",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Bikini's Bar",
+            "description": "Outpost of a chain sports bar & eatery with wings, burgers, a full bar, TVs & bikini-clad servers.",
+            "address": "214 E 6th St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-469-0001",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://www.bikinissportsbarandgrill.com/menu/",
+            "teams": [
+
+                {
+                    "name": "Pittsburgh Steelers",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Billy's on Burnet",
+            "description": "Neighborhood bar featuring local beers on tap, an arcade & a pub menu with many vegetarian options.",
+            "address": "2105 Hancock Dr",
+            "zipcode": 78756,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-407-9305",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://www.billysonburnet.com/beer-menu.php",
+            "teams": [
+
+                {
+                    "name": "Green Bay Packers",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Black Sheep Lodge",
+            "description": "This dog-friendly sports bar, known for its burgers, offers daily drink specials & bar games.",
+            "address": "2108 S Lamar Blvd",
+            "zipcode": 78704,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-707-2744",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "1:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://www.blacksheeplodge.com/menu/",
+            "teams": [
+
+                {
+                    "name": "Washington Redskins",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bombshells",
+            "description": "This American bar & grill chain with a military theme features waitresses in revealing uniforms.",
+            "address": "15119-C NORTH I-35 SERVICE",
+            "zipcode": 78660,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-670-2662",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://www.4bombshells.com/menu.aspx",
+            "teams": [
+
+                {
+                    "name": "Dallas Cowboys",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Champions Sports Bar & Restaurant",
+            "description": "Standard pub fare (breakfast buffet, too) & brew selection along with sports on TV.",
+            "address": "300 E 4th St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-473-0450",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "6:30am",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "6:30am",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "6:30am",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "6:30am",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "6:30am",
+                        "close": "12:00am"
+                    },
+
+                    "saturday": {
+                        "open": "7:00am",
+                        "close": "1:00am"
+                    },
+
+                    "sunday": {
+                        "open": "7:00am",
+                        "close": "12:00am"
+                    }
+                }
+
+            ],
+            "menu": "",
+            "teams": [
+
+                {
+                    "name": "Atlanta Falcons",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The Common Interest Karaoke Bar & Grill",
+            "description": "Lively karaoke mainstay featuring a stage in a sports bar setting, plus private rooms & pub grub.",
+            "address": "8440 Burnet Rd",
+            "zipcode": 78757,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-453-6796",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/the-common-interest-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": "Seattle Seahawks",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Deep Eddy Cabaret",
+            "description": "This legendary cash-only watering hole features an old-fashioned jukebox, pool & an upbeat vibe.",
+            "address": "2315 Lake Austin Blvd",
+            "zipcode": 78703,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-472-0961",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "",
+            "teams": [
+
+                {
+                    "name": "New Orleans Saints",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Draft Pick",
+            "description": "Sports bar featuring Texas brews on tap, lots of TVs & elevated pub grub, plus free covered parking.",
+            "address": "1620 E Riverside Dr #1618",
+            "zipcode": 78741,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-444-7425",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "1:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://www.draftpickaustin.com/index.php?option=com_content&view=article&id=2&Itemid=3",
+            "teams": [
+
+                {
+                    "name": "Dallas Cowboys",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Gibson Bar",
+            "description": "Chic watering hole with black banquettes featuring craft beer, game nights & a food truck out front.",
+            "address": "1109 S Lamar Blvd",
+            "zipcode": 78704,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-386-1345",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:30am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/gibson-bar-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": "Chicago Bears",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Lavaca Street Bar",
+            "description": "Hip sports bar with many TVs, games from Skee-Ball to air hockey & eclectic po' boys & tacos.",
+            "address": "405 Lavaca St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-469-0106",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:30am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://lavacastreet.com/drinks",
+            "teams": [
+
+                {
+                    "name": "Houston Texans",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Little Woodrow's",
+            "description": "Chill pub offering 100+ local & seasonal beers, lots of TVs, bar eats & a dog-friendly deck.",
+            "address": "520 W 6th St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-477-2337",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "3:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "3:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "3:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "3:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "3:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/little-woodrows-on-west-6th-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": "Seattle Seahawks",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The Local Pub & Patio",
+            "description": "Easygoing watering hole known for its extensive patio plus pool, sports on TV & happy-hour deals.",
+            "address": "2610 Guadalupe St",
+            "zipcode": 78705,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-478-2337",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "12:00pm",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/the-local-pub-patio-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": "Denver Broncos",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Mean Eyed Cat",
+            "description": "Beer & wine only at this down-home haunt with a patio where Johnny tunes play in the background.",
+            "address": "1621 W 5th St",
+            "zipcode": 78703,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-920-6645",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://themeaneyedcat.com/food",
+            "teams": [
+
+                {
+                    "name": "San Francisco 49ers",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Midway Field House",
+            "description": "A sports bar with huge screens, games like air hockey & skee ball, drink specials & stadium food.",
+            "address": "2015 E Riverside Dr",
+            "zipcode": 78741,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-547-9909",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "2:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "10:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "10:00am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "",
+            "teams": [
+
+                {
+                    "name": "Cleveland Browns",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Mister Tramps",
+            "description": "Neighborhood pub features local & craft beers plus meals such as burgers, pizza & club sandwiches.",
+            "address": "8565 Research Blvd",
+            "zipcode": 78758,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-837-3500",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "https://mistertramps.com/menu/",
+            "teams": [
+
+                {
+                    "name": "Tennessee Titans",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Rattle Inn",
+            "description": "Late-night hot spot features live music, dancing & cocktails, plus a rooftop deck with city views.",
+            "address": "610 Nueces St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-373-8306",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "1:00pm",
+                        "close": "5:00pm"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/the-rattle-inn-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": ["Buffalo Bills, New York Giants"],
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Recess Arcade Bar",
+            "description": "A lively bar with a collection of old school video games, drink specials & panini for snacking.",
+            "address": "222 E 6th St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-698-9852",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "5:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "5:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "5:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "5:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "5:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "saturday": {
+                        "open": "12:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:30am",
+                        "close": "12:00pm"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/recess-arcade-bar-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": "Cleveland Browns",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Shiner's Saloon",
+            "description": "Upbeat spot with a cowboy vibe supplying American grub into the wee hours & live music all week.",
+            "address": "422 Congress Ave",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-448-4600",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://www.shinerssaloon.com/Chuck_Wagon_Grub.html",
+            "teams": [
+
+                {
+                    "name": "Pittsburgh Steelers",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Shoal Creek Saloon",
+            "description": "Crawfish, burgers, beer & spirited football fans fuel this hopping Cajun bar & grill.",
+            "address": "909 N Lamar Blvd",
+            "zipcode": 78703,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-474-0805",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00pm",
+                        "close": "2:00am"
+                    }
+                }
+
+            ],
+            "menu": "http://shoalcreeksaloon.com/menu-daily-specials/",
+            "teams": [
+
+                {
+                    "name": "New Orleans Saints",
+                    "schedule": []
+                }
+
+            ]
+        },  
+        {
+            "id": 23,
+            "name": "Star Bar",
+            "description": "Relaxed, modern watering hole with Jenga, craft beer & 2 patios for people-watching.",
+            "address": "600 West 6th St",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-477-8550",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "3:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "1:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "1:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "1:00pm",
+                        "close": "10:00pm"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/star-bar-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": ["Green Bay Packers", "San Diego Chargers"],
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The Tavern",
+            "description": "German-influenced sports bar boasting 50 high-def TVs, a rotating beer menu & an upstairs patio.",
+            "address": "922 W 12th St",
+            "zipcode": 78703,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-320-8377",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "12:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "12::00am"
+                    }
+                }
+
+            ],
+            "menu": "http://www.allmenus.com/tx/austin/53463-the-taveren/menu/",
+            "teams": [
+
+                {
+                    "name": "Baltimore Ravens",
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Trifecta",
+            "description": "Snug, relaxed saloon with an extensive whiskey selection & specialty martinis, plus gourmet pizzas.",
+            "address": "360 Nueces St # 30",
+            "zipcode": 78701,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-320-9909",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "4:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "4:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "4:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "thursday": {
+                        "open": "4:00pm",
+                        "close": "12:00am"
+                    },
+
+                    "friday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "4:00pm",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "2:00pm",
+                        "close": "12::00am"
+                    }
+                }
+
+            ],
+            "menu": "http://www.trifectaaustin.com/MARTINI_MENU.html",
+            "teams": [
+
+                {
+                    "name": ["Chicago Bears", "Indianapolis Colts"],
+                    "schedule": []
+                }
+
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Warehouse Saloon & Billiards",
+            "description": "No-frills sports bar & pool parlor offering twice-weekly karaoke, foosball & daily happy hour deals.",
+            "address": "509 E Ben White Blvd",
+            "zipcode": 78704,
+            "city": "Austin",
+            "state": "TX",
+            "phoneNumber": "512-443-8799",
+            "hours": [
+
+                {
+                    "monday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "tuesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "wednesday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "thursday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "friday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "saturday": {
+                        "open": "11:00am",
+                        "close": "2:00am"
+                    },
+
+                    "sunday": {
+                        "open": "11:00am",
+                        "close": "2::00am"
+                    }
+                }
+
+            ],
+            "menu": "https://locu.com/places/warehouse-saloon-billiards-austin-us/#menu",
+            "teams": [
+
+                {
+                    "name": "Minnesota Vikings",
+                    "schedule": []
+                }
+
+            ]
+        }
+
+    ]
+}
