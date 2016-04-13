@@ -17,4 +17,13 @@ router.get('/bars/:bar_id', function(req, res, next) {
 
 });
 
+/* SHOW one bars teams */
+router.get('/bars/:bar_id/teams', function(req, res, next) {
+  bar = parseInt(req.params.bar_id);
+  index = bar - 1;
+
+  res.json(bars.bars[index].teams)
+
+});
+
 module.exports = router;
