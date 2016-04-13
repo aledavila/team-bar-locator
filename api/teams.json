@@ -1,0 +1,293 @@
+{
+    "teams": [
+
+        {
+            "id": 1,
+            "location": "Baltimore",
+            "team": "Ravens",
+            "division": "AFC-North",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 2,
+            "location": "Cincinnati",
+            "team": "Bengals",
+            "division": "AFC-North",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 3,
+            "location": "Cleveland",
+            "team": "Browns",
+            "division": "AFC-North",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 4,
+            "location": "Pittsburgh",
+            "team": "Steelers",
+            "division": "AFC-North",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 5,
+            "location": "Chicago",
+            "team": "Bears",
+            "division": "NFC-North",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 6,
+            "location": "Detroit",
+            "team": "Lions",
+            "division": "NFC-North",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 7,
+            "location": "Green Bay",
+            "team": "Packers",
+            "division": "NFC-North",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 8,
+            "location": "Minnesota",
+            "team": "Vikings",
+            "division": "NFC-North",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 9,
+            "location": "Houston",
+            "team": "Texans",
+            "division": "AFC-South",
+            "conference": "AFC",
+            "schedule": []
+        },
+        {
+            "id": 10,
+            "location": "Jacksonville",
+            "team": "Jaguars",
+            "division": "AFC-South",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 11,
+            "location": "Tennessee",
+            "team": "Titans",
+            "division": "AFC-South",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 12,
+            "location": "Indianapolis",
+            "team": "Colts",
+            "division": "AFC-South",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 13,
+            "location": "Atlanta",
+            "team": "Falcons",
+            "division": "NFC-South",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 14,
+            "location": "Carolina",
+            "team": "Panthers",
+            "division": "NFC-South",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 15,
+            "location": "New Orleans",
+            "team": "Saints",
+            "division": "NFC-South",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 16,
+            "location": "Tampa Bay",
+            "team": "Buccaneers",
+            "division": "NFC-South",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 17,
+            "location": "Buffalo",
+            "team": "Bills",
+            "division": "AFC-East",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 18,
+            "location": "Miami",
+            "team": "Dolphins",
+            "division": "AFC-East",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 19,
+            "location": "New England",
+            "team": "Patriots",
+            "division": "AFC-East",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 20,
+            "location": "New York",
+            "team": "Jets",
+            "division": "AFC-East",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 21,
+            "location": "Dallas",
+            "team": "Cowboys",
+            "division": "NFC-East",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 22,
+            "location": "New York",
+            "team": "Giants",
+            "division": "NFC-East",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 23,
+            "location": "Philadephia",
+            "team": "Eagles",
+            "division": "NFC-East",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 24,
+            "location": "Washington",
+            "team": "Redskins",
+            "division": "NFC-East",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 25,
+            "location": "Denver",
+            "team": "Broncos",
+            "division": "AFC-West",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 26,
+            "location": "Kansas City",
+            "team": "Chiefs",
+            "division": "AFC-West",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 27,
+            "location": "Oakland",
+            "team": "Raiders",
+            "division": "AFC-West",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 28,
+            "location": "San Diego",
+            "team": "Chargers",
+            "division": "AFC-West",
+            "conference": "AFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 29,
+            "location": "Arizona",
+            "team": "Cardinals",
+            "division": "NFC-West",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 30,
+            "location": "Los Angeles",
+            "team": "Rams",
+            "division": "NFC-West",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 31,
+            "location": "San Francisco",
+            "team": "49ers",
+            "division": "NFC-West",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        },
+        {
+            "id": 32,
+            "location": "Seattle",
+            "team": "Seahawks",
+            "division": "NFC-West",
+            "conference": "NFC",
+            "schedule": [],
+            "relationships": {}
+        }
+
+    ]
+}

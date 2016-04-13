@@ -1308,7 +1308,7 @@
                 }
 
             ]
-        },  
+        },
         {
             "id": 23,
             "name": "Star Bar",
@@ -1412,7 +1412,7 @@
 
                     "sunday": {
                         "open": "11:00am",
-                        "close": "12::00am"
+                        "close": "12:00am"
                     }
                 }
 
@@ -1471,7 +1471,7 @@
 
                     "sunday": {
                         "open": "2:00pm",
-                        "close": "12::00am"
+                        "close": "12:00am"
                     }
                 }
 
@@ -1530,7 +1530,7 @@
 
                     "sunday": {
                         "open": "11:00am",
-                        "close": "2::00am"
+                        "close": "2:00am"
                     }
                 }
 
