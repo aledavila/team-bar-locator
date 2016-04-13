@@ -405,7 +405,20 @@
             "division": "NFC-East",
             "conference": "NFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "name": "The Gatsby",
+                "official": false
+              },
+              {
+                "id": 19,
+                "name": "Rattle Inn",
+                "official": false
+              },
+              {
+                "name": "Legends"
+              }
+            ]
         },
         {
             "id": 23,
@@ -414,7 +427,13 @@
             "division": "NFC-East",
             "conference": "NFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "id": 18,
+                "name": "Mister Tramps",
+                "official": true
+              }
+            ]
         },
         {
             "id": 24,
@@ -423,7 +442,13 @@
             "division": "NFC-East",
             "conference": "NFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "id": 6,
+                "name": "Black Sheep Lodge",
+                "official": true
+              }
+            ]
         },
         {
             "id": 25,
@@ -432,7 +457,13 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "id": 15,
+                "name": "The Local Pub & Patio",
+                "official": true
+              }
+            ]
         },
         {
             "id": 26,
@@ -441,7 +472,16 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "name": "Delaney’s Ice House",
+                "official": false
+              },
+              {
+                "name": "Third Base (Round Rock)",
+                "official": false
+              }
+            ]
         },
         {
             "id": 27,
@@ -450,7 +490,13 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "id": 3,
+                "name": "Big Daddy's Burger Bar",
+                "official": true
+              }
+            ]
         },
         {
             "id": 28,
@@ -459,7 +505,13 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "id": 23,
+                "name": "Star Bar",
+                "official": false
+              }
+            ]
         },
         {
             "id": 29,
@@ -468,7 +520,12 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "name": "Delaney’s Ice House",
+                "official": false
+              }
+            ]
         },
         {
             "id": 30,
@@ -477,7 +534,7 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": []
         },
         {
             "id": 31,
@@ -486,7 +543,13 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "id": 16,
+                "name": "Mean Eyed Cat",
+                "official": false
+              }
+            ]
         },
         {
             "id": 32,
@@ -495,7 +558,18 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "bars": [{}]
+            "bars": [
+              {
+                "id": 14,
+                "name": "Little Woodrow's",
+                "official": true
+              },
+              {
+                "id": 9,
+                "name": "The Common Interest Karaoke Bar & Grill",
+                "official": false
+              }
+            ]
         }
 
     ]
