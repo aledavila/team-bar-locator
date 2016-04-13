@@ -5,48 +5,54 @@
             "id": 1,
             "name": "B.D. Riley's",
             "description": "Irish & local craft-brewed beers alongside an upscale pub menu, with traditional Irish decor.",
-            "address": "204 E 6th Street",
-            "zipcode": 78701,
-            "city": "Austin",
-            "state": "TX",
-            "phoneNumber": "512-494-1335",
-            "hours": [
+            "location": [
 
                 {
-                    "monday": {
-                        "open": "4:00pm",
-                        "close": "12:00am"
-                    },
+                    "address": "204 E 6th Street",
+                    "zipcode": 78701,
+                    "city": "Austin",
+                    "state": "TX",
+                    "phoneNumber": "512-494-1335",
+                    "hours": [
 
-                    "tuesday": {
-                        "open": "4:00pm",
-                        "close": "12:00am"
-                    },
+                        {
+                            "monday": {
+                                "open": "4:00pm",
+                                "close": "12:00am"
+                            },
 
-                    "wednesday": {
-                        "open": "11:00am",
-                        "close": "12:00am"
-                    },
+                            "tuesday": {
+                                "open": "4:00pm",
+                                "close": "12:00am"
+                            },
 
-                    "thursday": {
-                        "open": "11:00am",
-                        "close": "12:00am"
-                    },
+                            "wednesday": {
+                                "open": "11:00am",
+                                "close": "12:00am"
+                            },
 
-                    "friday": {
-                        "open": "11:00am",
-                        "close": "2:00am"
-                    },
+                            "thursday": {
+                                "open": "11:00am",
+                                "close": "12:00am"
+                            },
 
-                    "saturday": {
-                        "open": "11:00am",
-                        "close": "2:00am"
-                    },
+                            "friday": {
+                                "open": "11:00am",
+                                "close": "2:00am"
+                            },
 
-                    "sunday": {
-                        "open": "11:00am",
-                        "close": "12:00am"
-                    }
+                            "saturday": {
+                                "open": "11:00am",
+                                "close": "2:00am"
+                            },
+
+                            "sunday": {
+                                "open": "11:00am",
+                                "close": "12:00am"
+                            }
+                        }
+
+                    ]
                 }
 
             ],

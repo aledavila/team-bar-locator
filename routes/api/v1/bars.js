@@ -5,14 +5,16 @@ var _ = require('lodash');
 
 /* GET list of bars */
 router.get('/bars', function(req, res, next) {
-  res.json(bars);
+  res.json(bars.bars);
 });
 
 /* SHOW one bar */
-router.get('/bars/:bear_id', function(req, res, next) {
-  _.find(bars, function(bar) { 
-        res.json(bar.id === parseInt(req.params.bear_id));
-    });
+router.get('/bars/:bar_id', function(req, res, next) {
+  bar = parseInt(req.params.bar_id);
+  index = bar - 1;
+
+  res.json(bars.bars[index])
+
 });
 
 module.exports = router;
