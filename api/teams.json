@@ -8,7 +8,23 @@
             "division": "AFC-North",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 24,
+                "name": "The Tavern",
+                "official": true
+              },
+              {
+                "id": 19,
+                "name": "Rattle Inn",
+                "official": false
+              },
+              {
+                "id": 2,
+                "name": "Bar 96",
+                "official": false
+              }
+            ]
         },
         {
             "id": 2,
@@ -17,7 +33,13 @@
             "division": "AFC-North",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 1,
+                "name": "B.D. Riley's",
+                "official": false
+              }
+            ]
         },
         {
             "id": 3,
@@ -26,7 +48,22 @@
             "division": "AFC-North",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 17,
+                "name": "Midway Field House",
+                "official": true
+              },
+              {
+                "id": 20,
+                "name": "Recess Arcade Bar",
+                "official": false
+              },
+              {
+                "name": "Joe’s Bar and Grill",
+                "official": false
+              }
+            ]
         },
         {
             "id": 4,
@@ -35,7 +72,23 @@
             "division": "AFC-North",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 4,
+                "name": "Bikini's Bar",
+                "offical": true
+              },
+              {
+                "id": 23,
+                "name": "Star Bar",
+                "offical": false
+              },
+              {
+                "id": 21,
+                "name": "Shiner's Saloon",
+                "offical": false
+              }
+            ]
         },
         {
             "id": 5,
@@ -44,7 +97,34 @@
             "division": "NFC-North",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "name": "Thirsty Nickel",
+                "offical": false
+              },
+              {
+                "name": "Pluckers (S. Lamar)",
+                "offical": false
+              },
+              {
+                "id": 12,
+                "name": "Gibson",
+                "offical": false
+              },
+              {
+                "name": "Chicago House",
+                "offical": false
+              },
+              {
+                "id": 25,
+                "name": "Trifecta",
+                "offical": false
+              },
+              {
+                "name": "Third Base",
+                "official": false
+              }
+            ]
         },
         {
             "id": 6,
@@ -53,7 +133,20 @@
             "division": "NFC-North",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "name": "Thirsty Nickel",
+                "official": false
+              },
+              {
+                "name": "Concrete Cowboy",
+                "official": false
+              },
+              {
+                "name": "Haymaker",
+                "official": false
+              }
+            ]
         },
         {
             "id": 7,
@@ -62,7 +155,27 @@
             "division": "NFC-North",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 5,
+                "name": "Billy's on Burnet",
+                "official": true
+              },
+              {
+                "id": 6,
+                "name": "Black Sheep Lodge",
+                "official": false
+              },
+              {
+                "id": 23,
+                "name": "Star Bar",
+                "official": false
+              },
+              {
+                "name": "Shooter's",
+                "official": false
+              }
+            ]
         },
         {
             "id": 8,
@@ -71,7 +184,13 @@
             "division": "NFC-North",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 26,
+                "name": "Warehouse Saloon & Billiards",
+                "official": true
+              }
+            ]
         },
         {
             "id": 9,
@@ -79,7 +198,22 @@
             "team": "Texans",
             "division": "AFC-South",
             "conference": "AFC",
-            "schedule": []
+            "schedule": [],
+            "bars": [
+              {
+                "id": 13,
+                "name": "Lavaca Street Bar",
+                "official": true
+              },
+              {
+                "name": "Pluckers (Research)",
+                "official": false
+              },
+              {
+                "name": "The Four Horsemen",
+                "official": false
+              }
+            ]
         },
         {
             "id": 10,
@@ -88,7 +222,7 @@
             "division": "AFC-South",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": []
         },
         {
             "id": 11,
@@ -97,7 +231,13 @@
             "division": "AFC-South",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 18,
+                "name": "Mister Tramps",
+                "official": false
+              }
+            ]
         },
         {
             "id": 12,
@@ -106,7 +246,17 @@
             "division": "AFC-South",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 25,
+                "name": "Trifecta",
+                "official": false
+              },
+              {
+                "name": "Minibar",
+                "official": false
+              }
+            ]
         },
         {
             "id": 13,
@@ -115,7 +265,13 @@
             "division": "NFC-South",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 8,
+                "name": "Champions Sports Bar & Restaurant",
+                "official": false
+              }
+            ]
         },
         {
             "id": 14,
@@ -124,7 +280,7 @@
             "division": "NFC-South",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": []
         },
         {
             "id": 15,
@@ -133,7 +289,22 @@
             "division": "NFC-South",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 22,
+                "name": "Shoal Creek Saloon",
+                "official": true
+              },
+              {
+                "id": 10,
+                "name": "Deep Eddy Cabaret",
+                "official": false
+              },
+              {
+                "name": "St. Roch’s",
+                "official": false
+              }
+            ]
         },
         {
             "id": 16,
@@ -142,7 +313,7 @@
             "division": "NFC-South",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": []
         },
         {
             "id": 17,
@@ -151,7 +322,13 @@
             "division": "AFC-East",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 19,
+                "name": "Rattle Inn",
+                "official": true
+              }
+            ]
         },
         {
             "id": 18,
@@ -160,7 +337,7 @@
             "division": "AFC-East",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": []
         },
         {
             "id": 19,
@@ -169,7 +346,13 @@
             "division": "AFC-East",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 1,
+                "name": "B.D. Riley's",
+                "official": true
+              }
+            ]
         },
         {
             "id": 20,
@@ -178,7 +361,13 @@
             "division": "AFC-East",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 18,
+                "name": "Mister Tramps",
+                "official": false
+              }
+            ]
         },
         {
             "id": 21,
@@ -187,7 +376,27 @@
             "division": "NFC-East",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [
+              {
+                "id": 18,
+                "name": "Mister Tramps",
+                "official": false
+              },
+              {
+                "id": 11,
+                "name": "Draft Pick",
+                "official": false
+              },
+              {
+                "name": "Pluckers (Research)",
+                "official": false
+              },
+              {
+                "id": 7,
+                "name": "Bombshells",
+                "official": false
+              }
+            ]
         },
         {
             "id": 22,
@@ -196,7 +405,7 @@
             "division": "NFC-East",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 23,
@@ -205,7 +414,7 @@
             "division": "NFC-East",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 24,
@@ -214,7 +423,7 @@
             "division": "NFC-East",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 25,
@@ -223,7 +432,7 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 26,
@@ -232,7 +441,7 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 27,
@@ -241,7 +450,7 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 28,
@@ -250,7 +459,7 @@
             "division": "AFC-West",
             "conference": "AFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 29,
@@ -259,7 +468,7 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 30,
@@ -268,7 +477,7 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 31,
@@ -277,7 +486,7 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         },
         {
             "id": 32,
@@ -286,7 +495,7 @@
             "division": "NFC-West",
             "conference": "NFC",
             "schedule": [],
-            "relationships": {}
+            "bars": [{}]
         }
 
     ]
